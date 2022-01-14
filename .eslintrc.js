@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 module.exports = {
   root: true,
   env: {
@@ -15,5 +16,7 @@ module.exports = {
     'plugin:nuxt/recommended'
   ],
   plugins: ['prettier'],
-  rules: {}
+  rules: {
+    "vue/comment-directive": 0
+  }
 }

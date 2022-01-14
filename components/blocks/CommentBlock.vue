@@ -36,7 +36,7 @@
         </a>
       </div>
       <!-- eslint-disable-next-line -->
-      <div v-html="comment.body_html" class="html-content"></div>
+      <div class="html-content" v-html="comment.body_html"></div>
     </div>
     <ul>
       <comment-block

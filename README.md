@@ -35,6 +35,8 @@ npm run dev
 
 Read full article: https://nuxtjs.org/blog/build-dev-to-clone-with-nuxt-new-fetch
 
+[Demo](https://quixotic-scissors.surge.sh/)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/bdrtsky/nuxt-dev-to-clone/master/static/demo.gif">
 </p>

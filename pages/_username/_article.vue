@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 <template>
   <div class="page-wrapper">
     <div class="article-content-wrapper">
